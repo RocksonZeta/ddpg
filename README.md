@@ -1,12 +1,15 @@
 # ddpg
 ddpg algorithm
 
+## Dependency
+tensorflow 1.4
 
 
-# Introduction
+## Introduction
 
-Actor : state -> action   
-Critic: (state,action)  -> q value(scalar) goodness of action
+**Critic** : (state,action)  -> q value(scalar) goodness of action   
+**Actor** : state -> action   
 
 
-
+## Algorithm
+![image][https://github.com/RocksonZeta/ddpg/blob/master/ddpg.png]

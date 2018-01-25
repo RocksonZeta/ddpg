@@ -1,8 +1,3 @@
-# -----------------------------------
-# Deep Deterministic Policy Gradient
-# Author: Flood Sung
-# Date: 2016.5.4
-# -----------------------------------
 import gym
 import tensorflow as tf
 import numpy as np
