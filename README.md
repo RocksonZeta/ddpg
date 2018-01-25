@@ -7,7 +7,9 @@ ddpg(Deep Deterministic Policy Gradient) algorithm
 tensorflow >= 1.4
 
 ## Introduction
+```
 Consider : \\({s_1,a_1,r_1,...,s_T,a_T,r_T}\\)   
+```
 **Critic** : (state,action)  -> q value(scalar) goodness of action   
 **Actor** : state -> action   
 
