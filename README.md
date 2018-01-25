@@ -12,4 +12,4 @@ tensorflow 1.4
 
 
 ## Algorithm
-![image][https://github.com/RocksonZeta/ddpg/blob/master/ddpg.png]
+![](ddpg.png)
