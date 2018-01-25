@@ -1,15 +1,11 @@
 # ddpg
 ddpg(Deep Deterministic Policy Gradient) algorithm
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 ## Dependency
 tensorflow >= 1.4
 
 ## Introduction
-```
 Consider : ![](https://latex.codecogs.com/gif.latex?%7Bs_1%2Ca_1%2Cr_1%2C...%2Cs_T%2Ca_T%2Cr_T%7D)   
-```
 **Critic** : (state,action)  -> q value(scalar) goodness of action   
 **Actor** : state -> action   
 
